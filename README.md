@@ -1,8 +1,11 @@
 # freeresources.tech
 
+![freeresources](https://github.com/khaymanii/Free-Learning-Resources/assets/116851212/34f05a91-328e-44d5-9da0-7c76d2e3de75)
+
 Welcome to our free learning resource website! We are dedicated to providing a diverse collection of educational materials, tutorials, and resources for everyone in the tech community. Whether you are a beginner or an experienced professional, you'll find valuable content to enhance your skills and knowledge. This README file will guide you through the website's features and provide information on how you can contribute to making this platform even better.
 
 ## Table of Contents
+
 
 Introduction
 Features
